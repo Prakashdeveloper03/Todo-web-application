@@ -1,0 +1,2 @@
+fastapi[all]
+SQLAlchemy==1.4.37
